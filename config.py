@@ -1,2 +1,2 @@
-TOKEN = 'MTMzNDE0MjY4MzQzMzc5NTY0NQ.GSw9UG.aYtd8AZFUL-_LcAZgbGb5jUIBKbmduUk3Qxsro'
+TOKEN = 'rgggggggggggggggg'
 DATABASE = 'adult.db'
